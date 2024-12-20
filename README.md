@@ -28,6 +28,6 @@ Help track and manage movie inventory effectively.
 Highlight gaps in the inventory and optimize stock levels.
 
 ### Tools & Library Used
-[<img src="./mysq img.webp" alt="myql-logo" width="100"/>] &nbsp;
+[<img src="./my sql logo.png" alt="myql-logo" width="100"/>] &nbsp;
 
 
