@@ -33,7 +33,7 @@ Highlight gaps in the inventory and optimize stock levels.
 
 # Project Result
 
-[Click here to get full code](ttps://github.com/adeebhashmi55/MOVIE_RENTAL_SQL_PROJECT/blob/main/code%20movies%20rental.sql)
+[Click here to get full code](https://github.com/adeebhashmi55/MOVIE_RENTAL_SQL_PROJECT/blob/main/code%20movies%20rental.sql)
 
 # Query Task
 
