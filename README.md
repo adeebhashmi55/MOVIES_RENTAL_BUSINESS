@@ -39,7 +39,7 @@ Highlight gaps in the inventory and optimize stock levels.
 
 1. How can we extract the first name, last name, and email address of all customers to prepare a comprehensive contact list for the marketing team?
 
-[<img src="./Code_outputs/EMAIL_ID_LIST.png" alt="myql-logo" width="400"/>]&nbsp;
+[<img src="./CODE OUTPUT/email ids.PNG" alt="myql-logo" width="400"/>]&nbsp;
 
 2. What is the total number of movies in the inventory that are available for rent at the lowest rental rate of $0.99?
 
