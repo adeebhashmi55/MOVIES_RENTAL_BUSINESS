@@ -151,8 +151,8 @@ Highlight gaps in the inventory and optimize stock levels.
 
 29. Retrieve a list of distinct film titles and their descriptions currently available in the inventory at Store 2
 
-<img src="Code_Output/EXPANSION.PNG" />&nbsp;
+<img src="CODE OUTPUT/EXPANSION.PNG" />&nbsp;
 
 30. Retrieve a unified list of all staff and advisor names, including a column indicating their role as either 'Staff' or 'Advisor'
 
-<img src="Code_Output/CONFERENCE_LIST.PNG" />&nbsp;
+<img src="CODE OUTPUT/CONFERENCE_LIST.PNG" />&nbsp;
