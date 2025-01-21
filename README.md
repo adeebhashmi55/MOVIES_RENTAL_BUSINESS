@@ -39,7 +39,7 @@ Highlight gaps in the inventory and optimize stock levels.
 
 1. Extract the first name, last name, and email address of all customers to prepare a comprehensive contact list for the marketing team.
 
- <img src="Code_Output/email ids.PNG"  height="150"  />&nbsp;
+ <img src="CODE OUTPUT/email ids.PNG"  height="150"  />&nbsp;
 
 2. Analyze the rental rates and determine the number of movies in each rental category.
 
